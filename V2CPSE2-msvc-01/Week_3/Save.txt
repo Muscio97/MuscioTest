@@ -1,0 +1,4 @@
+ball my_ball{ sf::Vector2f{ 320.0, 240.0 }, 30.0, sf::Color(0,0,255) };
+cube my_cube{ sf::Vector2f{ 320.0, 340.0 }, sf::Vector2f{ 30.0, 30.0}, sf::Color(0,255,255) };
+triangle my_triangle{ sf::Vector2f{ 200.0, 200.0 }, 50.0, sf::Color(0,255,0) };
+line my_line{ sf::Vector2f{ 320.0, 200.0 }, sf::Vector2f{ 80.0, 3.0 }, sf::Color(255,0,0), 270.0};
